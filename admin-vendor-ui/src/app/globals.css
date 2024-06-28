@@ -1,0 +1,13 @@
+body {
+    margin: 0px
+}
+
+:root {
+    --app-btn-border-color: #dee2e6;
+    --app-btn-border-hover-color: #2189f1;
+}
+
+.active-menu {
+    color: blue !important;
+    text-shadow: 1px 1px 1px white;
+}
